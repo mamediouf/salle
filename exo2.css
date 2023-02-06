@@ -1,0 +1,90 @@
+
+body{
+    background-color: whitesmoke;
+}
+.nave{
+    margin-left: 550px;
+    margin-top: 5px;
+    
+}
+.logo{
+    margin-left: 50px;
+}
+
+
+.carte{
+    display: flex;
+    margin-top: 20px;
+    gap: 20px;   
+}
+.seul{
+    margin-left:  0px;
+    padding-left: 0px;
+    padding-bottom: 0PX;
+    margin-bottom: 0px;
+
+}
+
+.ima{
+    margin-top: 30%;
+}
+
+.ecrit{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+
+}
+.para{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+}
+
+.card-group{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left: 30px;
+    gap: 20PX;
+    border: 1 SOLID black;
+}
+.the{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 20PX;
+     
+
+}
+
+.log{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.un{
+    margin-left: 50%;
+}
+
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    background-color: rgb(9, 9, 97);
+    color: aliceblue;
+    margin-top: 50PX;
+    width: 100%;
+    padding-left: 100PX;
+    padding-top: 70px;
+    
+}
+
+
